@@ -1,0 +1,30 @@
+2018/1/23:
+	## XSStrike: 可以爬取网页，fuzz，注入payload，绕过WAF。 python代码可以作为学习。
+	https://github.com/UltimateHackers/XSStrike
+
+	## 实用的linux终端命令：
+	http://mp.weixin.qq.com/s/rLcEB8InVdn3jPpG1UwaHQ
+
+	## tenser flow 神经网络的, 有简单的生成密码的，还有alice in wonderland教学
+	https://github.com/k3170makan/PyMLProjects
+
+	## 
+
+2018/4/8:
+
+apktool 资源反编译工具，直接解压apk会导致xml乱码
+dex2jar 源码反编译工具
+jd-gui 源码查看工具
+
+## http://www.freebuf.com/column/167556.html  一个白帽采访
+我的工具库里就包含有子域名枚举、开放端口探测、目录枚举、目标DNS记录检测、服务端应用截屏等侦察踩点脚本
+一旦我的脚本工具任务执行完毕，其结果会自动存储到一个git库中，另外，我还会用一个集成的侦察工具库 megplus，其中整合了多种踩点脚本，你可以一试。
+Atom编辑器： https://atom.io/
+
+
+## 用python编写弱密码审计工具： 里面有一些进程线程的运用
+http://www.freebuf.com/sectool/163919.html
+zmap扫描
+
+
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
