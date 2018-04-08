@@ -1,0 +1,16 @@
+
+
+
+EAX : accumulator : used for performing calculations, and used to store return values from function calls. Basic operations such as add, subtract, compare use this general-purpose register
+EBX : base (does not have anything to do with base pointer). It has no general purpose and can be used to store data.
+ECX : counter : used for iterations. ECX counts downward.
+EDX : data : this is an extension of the EAX register. It allows for more complex calculations (multiply, divide) by allowing extra data to be stored to facilitate those calculations.
+ESP : stack pointer
+EBP : base pointer
+ESI : source index : holds location of input data
+EDI : destination index� : points to location of where result of data operation is stored
+EIP : instruction pointer
+
+
+## x86上面是小端，反着的
+A quick note before proceeding : On intel x86, the addresses are stored little-endian (so backwards).� The AAAA you are seeing is in fact AAAA :-)� (or, if you have sent ABCD in your buffer, EIP would point at 44434241 (DCBA)
